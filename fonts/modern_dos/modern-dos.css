@@ -1,0 +1,29 @@
+@font-face {
+    font-family: "ModernDOS8x8";
+    src: local("ModernDOS8x8.ttf"),
+    url("ModernDOS8x8.ttf") format("truetype")
+}
+
+@font-face {
+    font-family: "ModernDOS8x14";
+    src: local("ModernDOS8x14.ttf"),
+    url("ModernDOS8x14.ttf") format("truetype")
+}
+
+@font-face {
+    font-family: "ModernDOS8x16";
+    src: local("ModernDOS8x16.ttf"),
+    url("ModernDOS8x16.ttf") format("truetype")
+}
+
+@font-face {
+    font-family: "ModernDOS9x14";
+    src: local("ModernDOS9x14.ttf"),
+    url("ModernDOS9x14.ttf") format("truetype")
+}
+
+@font-face {
+    font-family: "ModernDOS9x16";
+    src: local("ModernDOS9x16.ttf"),
+    url("ModernDOS9x16.ttf") format("truetype")
+}
